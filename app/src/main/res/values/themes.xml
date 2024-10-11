@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.SwimVPN_SecureWaters" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.SwimVPN" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
